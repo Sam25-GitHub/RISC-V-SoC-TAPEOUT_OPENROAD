@@ -9,6 +9,7 @@ cd OpenROAD
 # 2. Install dependencies
 sudo ./etc/DependencyInstaller.sh -all
 ```
+![OpenROAD Installation Diagram](https://github.com/Sam25-GitHub/RISC-V-SoC-TAPEOUT_OPENROAD/blob/main/INSTALLATION/1_openroad.jpg?raw=true)
 
 ```
 # 3. Build OpenROAD
