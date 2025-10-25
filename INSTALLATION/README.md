@@ -18,6 +18,7 @@ cmake ..
 make
 ```
 ![OpenROAD Installation Diagram](https://github.com/Sam25-GitHub/RISC-V-SoC-TAPEOUT_OPENROAD/blob/main/INSTALLATION/2_openroad.jpg?raw=true)
+![OpenROAD Installation Diagram](https://github.com/Sam25-GitHub/RISC-V-SoC-TAPEOUT_OPENROAD/blob/main/INSTALLATION/3_openroad.jpg?raw=true)
 
 ```
 # 4. Run OpenROAD
