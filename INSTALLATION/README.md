@@ -1,1 +1,19 @@
+# OpenROAD Quick Installation Guide
 
+```bash
+# 1. Clone repository
+git clone --recursive https://github.com/The-OpenROAD-Project
+cd OpenROAD
+
+# 2. Install dependencies
+sudo ./etc/DependencyInstaller.sh -all
+
+# 3. Build OpenROAD
+mkdir build
+cd build
+cmake ..
+make
+
+# 4. Run OpenROAD
+cd test/
+openroad -gui -log filename.log verilog_descriptive.tcl
