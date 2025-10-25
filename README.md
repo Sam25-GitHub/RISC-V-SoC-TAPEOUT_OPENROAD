@@ -33,3 +33,4 @@ OpenROAD is an open-source, fully automated RTL-to-GDSII flow for digital IC des
 - Verifies design rules (DRC) and electrical rules (LVS) on the final layout.
 - Produces GDSII, the standard file format for fabrication.
 - Ready for tape-out and manufacturing.
+![diagram](https://github.com/Sam25-GitHub/RISC-V-SoC-TAPEOUT_OPENROAD/blob/main/8_openroad.jpg?raw=true)
