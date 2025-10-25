@@ -48,3 +48,4 @@ source "flow_floorplan_placement.tcl"
 # source "flow_cts_routing.tcl"
 ```
 ![diagram](https://github.com/Sam25-GitHub/RISC-V-SoC-TAPEOUT_OPENROAD/blob/main/floorplan_placement/6_openroad.jpg?raw=true)
+![diagram](https://github.com/Sam25-GitHub/RISC-V-SoC-TAPEOUT_OPENROAD/blob/main/floorplan_placement/7_openroad.jpg?raw=true)
