@@ -26,3 +26,4 @@ cd test/
 openroad -gui -log filename.log verilog_descriptive.tcl
 ```
 ![OpenROAD Installation Diagram](https://github.com/Sam25-GitHub/RISC-V-SoC-TAPEOUT_OPENROAD/blob/main/INSTALLATION/4-openroad.jpg?raw=true)
+![OpenROAD Installation Diagram](https://github.com/Sam25-GitHub/RISC-V-SoC-TAPEOUT_OPENROAD/blob/main/INSTALLATION/5_openroad.jpg?raw=true)
